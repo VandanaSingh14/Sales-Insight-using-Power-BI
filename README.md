@@ -12,7 +12,7 @@ We have a sql dataset where we have details like sales data, sales description, 
 
 1. Show total number of customers
 
-   SELECT * FROM customers;
+   SELECT count(*) FROM customers;
 
 2. Show transactions for Chennai market (market code for chennai is Mark001
 
