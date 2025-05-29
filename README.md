@@ -34,6 +34,7 @@ We have a sql dataset where we have details like sales data, sales description, 
 
    SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.currency="INR\r" or transactions.currency="USD\r";
 
+
 # PowerBI steps
 
 Start importing the data by clicking on 'Get Data' option and from that select SQL server option.
