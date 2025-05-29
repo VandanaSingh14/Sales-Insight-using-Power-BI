@@ -10,11 +10,11 @@ PowerBI is a tool like MS-excel which is much easier to use. It is used for anal
 
 We have a sql dataset where we have details like sales data, sales description, sales market and sales products. Below are some of the queries which we can run on SQL workbench to have a brief view of dataset:
 
-Show total number of customers
+1. Show total number of customers
 
-SELECT count(*) FROM customers;
+   SELECT * FROM customers;
 
-Show transactions for Chennai market (market code for chennai is Mark001
+2. Show transactions for Chennai market (market code for chennai is Mark001
 
 SELECT * FROM transactions where market_code='Mark001';
 
