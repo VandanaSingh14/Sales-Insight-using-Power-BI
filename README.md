@@ -1,5 +1,3 @@
-# Sales-Insight-using-Power-BI
-
 # Sales Insight using Power BI
 
 This project uses SQL database to analyze and visualize through Power BI
@@ -43,13 +41,21 @@ On the left we have 3 option i.e, Report, Data and Models (this basically shows 
 On clicking transform data it will launch a powerBI query editor where we can do data cleaning and transformation.
 On the home screen of report section, this is the place where we start our visualization part. On the center we have canvas and on the right we have filters, vislualization and fields.
 In total we have 3 pages named key insights, profit analysis and performance insights.
+
 Below GIF represent key sights in different years. We can click on various options of revenue by markets, sales quantity by markets etc to look at their respective stats.
 
+![key_insight_gif](https://github.com/user-attachments/assets/094023cc-b9a9-4521-91b5-fb48e879a9fe)
 
-# Below GIF represents profit analysis in different years.
+
+Below GIF represents profit analysis in different years.
+![profit_analysis_gif](https://github.com/user-attachments/assets/96f8b41b-8970-4f24-96d1-0fe4f00653b9)
 
 
-# Below GIF represents performance insights in different years.
+
+
+Below GIF represents performance insights in different years.
+![performance_gif](https://github.com/user-attachments/assets/e2d3cc2a-82bc-4b28-bda4-26f21e83d06e)
+
 
 
 * PowerBI also allow you to publish report. There is an option called publish which publishes report on cloud. The only precondition is that we need have a working mail account.
